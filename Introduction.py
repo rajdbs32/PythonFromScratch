@@ -1,1 +1,2 @@
-hbsyivsEf
+print("Hello world\n")
+
